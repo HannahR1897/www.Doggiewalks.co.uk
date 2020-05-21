@@ -1,0 +1,214 @@
+article {
+  bacgkround-color: #C5EEFC;
+}
+header {
+  background-color: #8DE1FB;
+}
+footer {
+  background-color: #8DE1FB;
+  width: 100%;
+  height: 400px;
+  bottom: 0;
+
+}
+body {
+  background-color: #C5EEFC;
+  background-image: url("paw.png");
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-area: auto;
+}
+.howitworks {
+  text-align: center;
+}
+.pagetext {
+  font-family: 'railway'sans-serif;
+  padding-right: 100px;
+  padding-left: 10px;
+  text-align: center;
+
+}
+.nav {
+  display:
+  width: 100px;
+  padding-bottom: 10px;
+  padding-left: 300px;
+  margin: auto 0 auto 50px;
+  grid-column: 2/5;
+  overflow: hidden;
+}
+a {
+  float: right;
+  padding-right: 50px;
+  color: #333333;
+  font-family: 'railway'sans-serif;
+  font-weight: bold;
+  font-size: 26px;
+  text-decoration: none;
+  background-color: #8DE1FB;
+  
+}
+h2 {
+  color: #FFFEFE;
+  font-family: 'railway'sans-serif;
+  font-weight: bold;
+  font-size: 61px;
+  text-align: center;
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  background-image: url("aboutpage2.jpg");
+}
+h4 {
+  color: #333333;
+  font-size: 60px;
+  text-align: center;
+}
+.howitworkstitle {
+  padding-top: 100px;
+}
+.contactpagetext {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.contact {
+  background-image: url("contactimage.jpeg");
+  background-position:center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-bottom: 250px;
+  padding-top: 100px;
+}
+button {
+  background-color: #6BD7F9;
+  padding: 20px;
+  padding-bottom: 20p;
+  font-size: 20px;
+  font-family: 'railway'sans-serif;
+  color: #FFFFFF;
+}
+.contactform {
+  font-size: 32px;
+  font-weight: bold;
+  padding: 150px;
+  padding-left: 100px;
+}
+input {
+    padding: 10px;
+    width: 50%;
+}
+.message {
+  height: 100px;
+}
+.send {
+  margin-left: 100px;
+  margin-top: 100px;
+  align-items: center;
+  width: 200px;
+  background-color: #6BD7F9;
+}
+.services {
+  background-image: url(pexels-photo-275717.jpeg);
+  padding-bottom: 100px;
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hometitle {
+  background-image: url("homepageimage1.jpg");
+  padding-bottom: 100px;
+  padding-top: 100px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logo {
+  height: 241px;
+  width: 300;
+  display: inline;
+}
+.gallery {
+  height: 900px;
+  width: 1000px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gallerytext {
+  text-align: center;
+}
+.blacklab {
+  height: 380px;
+  width: 700px;
+  display: inline;
+}
+#demobox {
+  padding-left: 30px;
+  padding-right: 30px;
+  align-self: center;
+  background-color: #8DE1FB;
+  border: 1px;
+  width: 300px;
+  height: 380px;
+  text-align: center;
+  align-self: center;
+}
+.aboutpagepic {
+  height: 300px;
+  width: 400px;
+}
+.contactimage {
+  height: 700px;
+  width: 400px;
+  padding-bottom: 200px;
+}
+
+.openingtimes {
+  padding-top: 30px;
+  padding-left: 200px;
+  display: inline;
+  text-align: center;
+
+}
+.footerlogo {
+  height: 241px;
+  width: 300;
+  display: inline;
+  float: left;
+}
+.contactdetails {
+  text-align: right;
+
+  width: 60%;
+  padding-bottom: 100px;
+}
+.slogan {
+  font-size: 33px;
+  text-align: center;
+  font-family: 'railway'sans-serif;
+  font-weight: lighter;
+}
+
+h1 {
+  color: #333333;
+  font-size:35px;
+  text-align: center;
+  font-family: 'railway'sans-serif;
+}
+h3 {
+  color: #333333;
+  font-size:26px;
+  text-align: center;
+  font-family: 'railway'sans-serif;
+}
+p {
+  color: #333333;
+  font-family: 'railway'sans-serif;
+  font-size: 26px;
+  text-align: center;
+
+}
